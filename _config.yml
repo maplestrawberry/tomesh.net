@@ -17,6 +17,7 @@ github_username: tomeshnet
 collections:
   announcements:
     output: false
+  moments:
 
 # Build settings
 markdown: kramdown
